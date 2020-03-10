@@ -5,5 +5,21 @@
 #header{
     width: 100%;
     height:288px;
-    background-image: url("...\Новая папка\Images\header.png") ;
+    background-image: url("../Images/header.png") ;
+}
+#content{
+    width: 100%;
+    height:288px;
+    background-image: url() ;
+}
+#container{
+    margin: auto;
+    width:940px;
+}
+#logo-name{
+    max-width: 650px;
+    margin: auto;
+}
+#footer{
+
 }
